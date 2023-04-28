@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.c90cd393.css",
+    "main.js": "/my-app/static/js/main.fae93275.js",
+    "static/media/Sejal's CV.pdf": "/my-app/static/media/Sejal's CV.ea89ab57796a226e3e9a.pdf",
+    "index.html": "/my-app/index.html",
+    "main.c90cd393.css.map": "/my-app/static/css/main.c90cd393.css.map",
+    "main.fae93275.js.map": "/my-app/static/js/main.fae93275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90cd393.css",
+    "static/js/main.fae93275.js"
+  ]
+}
